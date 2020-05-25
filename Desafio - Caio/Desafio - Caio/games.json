@@ -1,0 +1,58 @@
+[
+	{
+		"title": "Shadow of the Colossus",
+		"categories": "Action-Adventure, Fantasy, Puzzle",
+		"release": "2018",
+		"publisher": "Sony Interactive Entertainment",
+		"summary": "Shadow of the Colossus is an action-adventure game developed by Bluepoint Games and published by Sony Interactive Entertainment for the PlayStation 4. It is a remake of the original game for the PlayStation 2 using ultra-high definition art assets.",
+		"image": "shadow"
+	},
+	{
+		"title": "Final Fantasy VII Remake",
+		"categories": "Action, Role-Playing Game",
+		"release": "2020",
+		"publisher": "Square-Enix",
+		"summary": "Set in the dystopian cyberpunk metropolis of Midgar, players control mercenary Cloud Strife as he and an eco-terrorist group known as AVALANCHE oppose a powerful megacorporation known as Shinra from using the planet's life essence as an energy source. The gameplay combines real-time action with strategic and role-playing elements.",
+		"image": "finalfantasy"
+	},
+	{
+		"title": "Dark Souls 3",
+		"categories": "Action, Role-Playing Game",
+		"release": "2016",
+        "publisher": "Bandai Namco Entertainment",
+		"summary": "Set in the Kingdom of Lothric, a bell has rung to signal that the First Flame, responsible for maintaining the Age of Fire, is dying out. As has happened many times before, the coming of the Age of Dark produces the undead: cursed beings that rise up after death. The Age of Fire can be prolonged with the linking of the fire, a ritual in which great lords and heroes sacrifice their souls to rekindle the First Flame. However, Prince Lothric, the chosen linker for this age, has abandoned his duty and instead chooses to watch the flame die from afar.",
+		"image": "darksouls"
+	},
+	{
+		"title": "Beyond Two Souls",
+		"categories": "Interactive drama, Action-Adventure game",
+		"release": "2013",
+        "publisher": "Sony Interactive Entertainment",
+		"summary": "The game features Jodie Holmes and Aiden: a separate soul linked to Jodie since birth. Jodie, who is portrayed by actress Ellen Page, possesses supernatural powers through her psychic link to Aiden, growing from adolescence to adulthood while learning to control Aiden and the powers they share. Willem Dafoe co-stars as Nathan Dawkins, a researcher in the Department of Paranormal Activity and Jodie's surrogate-father-figure. The actors in the game worked during the year-long project in Quantic Dream's Paris studio to perform on-set voice acting and motion-capture acting.",
+		"image": "beyond"
+	},
+	{
+		"title": "Gran Turismo Sport",
+		"categories": "Racing SImulator",
+		"release": "2017",
+        "publisher": "Sony Interactive Entertainment",
+		"summary": "Gran Turismo Sport is a racing game and includes two game modes: Sport Mode and Arcade Mode. Online racing is also featured in the game. The game has been described as different from the Prologue titles seen in the past in the series and features more content.",
+		"image": "granturismo"
+	},
+	{
+		"title": "The Legend of Zelda: Breath Of The Wild",
+		"categories": "Action, Adventure",
+		"release": "2017",
+        "publisher": "Nintendo",
+		"summary": "Breath of the Wild is part of the Legend of Zelda franchise and is set at the end of the series timeline; the player controls Link, who awakens from a hundred-year slumber to defeat Calamity Ganon before it can destroy the kingdom of Hyrule.",
+		"image": "zelda"
+	},
+	{
+		"title": "Super Mario Odyssey",
+		"categories": "Platform, Action-Adventure",
+		"release": "2017",
+        "publisher": "Nintendo",
+		"summary": "An entry in the Super Mario series, it follows Mario and Cappy, a sentient hat that allows Mario to control other characters and objects, as they journey across various worlds to save Princess Peach from his nemesis Bowser, who plans to forcibly marry her. In contrast to the linear gameplay of prior entries, the game returns to the primarily open-ended, 3D platform gameplay featured in Super Mario 64 and Super Mario Sunshine.",
+		"image": "mario"
+	}
+]
